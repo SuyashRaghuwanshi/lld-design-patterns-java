@@ -1,6 +1,6 @@
 
 // Client / Demo class
-public class FitnessObserverDemo {
+public class Client {
     public static void main(String[] args) {
         FitnessData fitnessData = new FitnessData();
         LiveActivityDisplay liveDisplay = new LiveActivityDisplay();
