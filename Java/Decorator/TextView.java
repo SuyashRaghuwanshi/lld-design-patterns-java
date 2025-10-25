@@ -1,0 +1,3 @@
+interface TextView{
+    void render();
+}
