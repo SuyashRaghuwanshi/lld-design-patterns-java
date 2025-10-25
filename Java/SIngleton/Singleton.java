@@ -1,4 +1,4 @@
-package Java.Singleton;
+package Java.SIngleton;
 public class Singleton{
     
     //Lazy Initialization Singleton pattern
